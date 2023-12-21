@@ -45,5 +45,4 @@ python [script_name].py
 - Adjust microphone settings if the script has trouble understanding commands.
 ## Disclaimer
 - This script is for educational purposes. Users are responsible for any use of the script in line with API terms of services and data handling regulations.
-**----------------------------------------------------------------------------------------------
 - For more information or support, please refer to the script's documentation or contact the maintainer.
