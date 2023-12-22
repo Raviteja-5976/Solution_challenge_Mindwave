@@ -4,7 +4,7 @@
 This Python script provides a voice assistant capable of performing a variety of tasks, such as sending emails, generating images, providing weather updates, and opening YouTube searches. It uses speech recognition to understand user requests and text-to-speech for responses. Additionally, the script integrates with OpenAI's GPT-3.5 Turbo model for generating text and DALL-E for image creation.
 
 ## Features
-- **Voice Recognition and Text-to-Speech:**Interacts with users through spoken language.
+- **Voice Recognition and Text-to-Speech:** Interacts with users through spoken language.
 - **Email Functionality:** Composes and sends emails based on user input.
 - **Weather Updates:** Fetches and provides weather information for a specified location.
 - **Image Generation:** Creates images based on user-provided prompts using DALL-E.
